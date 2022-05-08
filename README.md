@@ -9,7 +9,7 @@
 
 ## Necessary Python libraries which must be installed to run the script
 
-- `urllib` is a standard library for Python3.
+- `urllib.request` is a standard library for Python3.
 - [html-table-parser](https://pypi.org/project/html-table-parser-python3/): Install with pip using `pip install html-table-parser-python3`
 - [pandas](https://pypi.org/project/pandas/): Install with pip using `pip install pandas`
 
