@@ -15,10 +15,10 @@
 
 ## Example of output when script is run in a terminal emulator
 
-![example.png]()
+![example.png](https://github.com/RastalDev/prayer_times/blob/master/example.png)
 
 ## License
 
 This script is licensed under [GPLv3.](https://github.com/RastalDev/prayer_times/blob/master/LICENSE)
 
-![gplv3.png]()
+![gplv3.png](https://github.com/RastalDev/prayer_times/blob/master/gplv3.pn://github.com/RastalDev/prayer_times/blob/master/gplv3.png)
