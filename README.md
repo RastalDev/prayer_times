@@ -1,7 +1,8 @@
 # Islamic Prayer Times
 
-## Python script to scrape website content and parse the relevant content into a table to display to the user
+## Python script to display a daily Islamic prayer timetable
 
+- Python script to scrape website content and parse the relevant content into a table to display to the user
 - This script, by default, uses the prayer timetable of Islamic relief UK for London.
 - Script can be modified to display the prayer times from any location.
 - To find your location and relevant prayer times, see [here for UK cities](https://www.islamic-relief.org.uk/islamic-resources/prayer-timetables/), select the nearest one to your location and then modify the script accordingly by inserting the appropriate URL.
