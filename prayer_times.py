@@ -14,7 +14,7 @@ def contents(url):
     return open_site.read()
 
 # Define html objects, feed to table parser and get data of table
-web_html = contents('https://www.islamic-relief.org.uk/islamic-resources/prayer-timetables/prayer-timetable-london/').decode('utf-8')
+web_html = contents('https://timesprayer.com/en/prayer-times-in-city-of-westminster.html').decode('utf-8')
 htp = HTMLTableParser()
 htp.feed(web_html)
 
