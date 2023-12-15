@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+# Author: https://github.com/RastalDev
 # A Python script to show Islamic prayer times scraped from url
 
 # Modules to be used in the script

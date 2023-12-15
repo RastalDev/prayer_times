@@ -16,10 +16,18 @@
 
 ## Example of output when script is run in a terminal emulator
 
-![example.png](https://github.com/RastalDev/prayer_times/blob/master/example.png)
+![screenshot](./example.png)
+
+## Developer(s)
+
+This repository is maintained by:
+
+| [![RastalDev](https://github.com/rastaldev.png?size=100)](https://github.com/rastaldev) |
+| --------------------------------------------------------------------------------------- |
+| [RastalDev](https://github.com/rastaldev)                                               |
 
 ## License
 
 This script is licensed under [GPLv3.](https://github.com/RastalDev/prayer_times/blob/master/LICENSE)
 
-![gplv3.png](https://github.com/RastalDev/prayer_times/blob/master/gplv3.png)
+![gplv3.png](./gplv3.png)
