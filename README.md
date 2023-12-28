@@ -7,8 +7,7 @@
 - Python script to scrape website content and parse the relevant content into a pandas dataframe to display to the user.
 - This script, by default, uses the prayer timetable of timesprayer.com for Westminster, London.
 - Script can be modified to display the prayer times from any location.
-- If you live in UK, see [here](https://timesprayer.com/en/prayer-times-cities-united-kingdom.html), for a list of prayer times in different UK cities, select the nearest city to your location and then modify the script accordingly by inserting the appropriate URL.
-- The script should work with any website displaying a single html table of prayer times on a single web page for any location worldwide, simply modify the script in this case for whatever URL you wish to use.
+- Wherever you live, see [here](https://timesprayer.com/en/) for a list of different countries / cities with their respective prayer times. Select the nearest city to your location and then modify the script accordingly by inserting the appropriate URL.
 
 ## Necessary Python libraries which must be installed to run the script
 
