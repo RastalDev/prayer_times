@@ -1,6 +1,6 @@
 # Islamic Prayer Times
 
-![Static Badge](https://img.shields.io/badge/Made%20in%20-%20Python%20-%20Blue) ![Static Badge](https://img.shields.io/badge/License%20-%20GPL%20v.3%20-%20Green)
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## Python script to display a daily Islamic prayer timetable
 
